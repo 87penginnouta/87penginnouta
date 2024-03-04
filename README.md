@@ -5,8 +5,11 @@ I'm Zi-Ting! I love learning new skill and technology💪
 
 ## Pinned
 
-🐟[Cfood_enter.com](https://87penginnouta.github.io/Cfood_enter/)
-> A website about **seafood culture** in Taiwan, including fish and strimp.
+🐟[Cfood_enter](https://87penginnouta.github.io/Cfood_enter/)
+> About **seafood culture** in Taiwan, including fish and strimp.
+
+🎶[taiwan_music_monbo](https://87penginnouta.github.io/taiwan_music_monbo/)
+> About history of music in Taiwan from 1930s. 
 
 ## Skill
 
