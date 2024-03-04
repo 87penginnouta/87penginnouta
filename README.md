@@ -3,13 +3,21 @@
 Hi there👋  
 I'm Zi-Ting! I love learning new skill and technology💪
 
- ♠️ HTML/SCSS/JQuery/Bootstrap/PHP/SEO
+## Skill
+
+HTML/SCSS/JQuery/Bootstrap/PHP/SEO
  
- ♥️ Illustration/Pixel art/Infographic
+## Intrest
+
+Illustration/Pixel art/Infographic
  
- ♦️ Penguin/Dog
+## Favorite 
+
+Penguin/Dog
  
- ♣️ INFP
+## ? 
+
+INFP
 
 ## Pinned
 
