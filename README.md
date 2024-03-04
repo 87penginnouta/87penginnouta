@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Zi-Ting! I love learning new skill and technology.
+## Hi there  
+
+I'm Zi-Ting👋 I love learning new skill and technology.
 
 ## Pinned
 
