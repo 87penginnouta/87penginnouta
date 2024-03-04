@@ -1,3 +1,5 @@
+![my banner](./_banner_.png)
+
 Hi there👋  
 I'm Zi-Ting! I love learning new skill and technology.
 
