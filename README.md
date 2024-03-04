@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Zi-Ting! I love learning new skill and technology.
 
-##Pinned
+## Pinned
 
-[Cfood_enter](https://github.com/87penginnouta/Cfood_enter)
+[Cfood_enter.com](https://github.com/87penginnouta/Cfood_enter)
 
 
 
