@@ -1,10 +1,10 @@
-## Hi there  
-
-I'm Zi-Ting👋 I love learning new skill and technology.
+Hi there👋  
+I'm Zi-Ting! I love learning new skill and technology.
 
 ## Pinned
 
-[Cfood_enter.com](https://github.com/87penginnouta/Cfood_enter)
+🐟[Cfood_enter.com](https://github.com/87penginnouta/Cfood_enter)
+> A website about **seafood culture** in Taiwan, including fish and strimp.
 
 
 
