@@ -1,7 +1,12 @@
 ![my banner](./_banner_.png)
 
 Hi there👋  
-I'm Zi-Ting! I love learning new skill and technology.
+I'm Zi-Ting! I love learning new skill and technology💪
+
+♠️ HTML/SCSS/JQuery/Bootstrap/PHP/SEO
+♥️ Illustration/Pixel art/Infographic
+♦️ Penguin/Dog
+♣️ INFP
 
 ## Pinned
 
