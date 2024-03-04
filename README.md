@@ -3,6 +3,11 @@
 Hi there👋  
 I'm Zi-Ting! I love learning new skill and technology💪
 
+## Pinned
+
+🐟[Cfood_enter.com](https://87penginnouta.github.io/Cfood_enter/)
+> A website about **seafood culture** in Taiwan, including fish and strimp.
+
 ## Skill
 
 HTML/SCSS/JQuery/Bootstrap/PHP/SEO
@@ -19,10 +24,7 @@ Penguin/Dog
 
 INFP
 
-## Pinned
 
-🐟[Cfood_enter.com](https://87penginnouta.github.io/Cfood_enter/)
-> A website about **seafood culture** in Taiwan, including fish and strimp.
 
 
 
