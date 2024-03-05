@@ -1,7 +1,7 @@
 ![my banner](./_banner_.png)
 
 Hi there👋  
-I'm Zi-Ting! I love learning new skill and technology💪
+I'm Zi-Ting! I love learning new skill and technology💪INFP
 
 ## Pinned
 
@@ -13,7 +13,7 @@ I'm Zi-Ting! I love learning new skill and technology💪
 
 ## Skill
 
-HTML/SCSS/JQuery/Bootstrap/PHP/SEO
+HTML/SCSS/JQuery/Bootstrap/PHP/SEO/UI/UX
  
 ## Intrest
 
@@ -21,11 +21,9 @@ Illustration/Pixel art/Infographic
  
 ## Favorite 
 
-Penguin/Dog
- 
-## ? 
+Penguin/Pudding
 
-INFP
+
 
 
 
