@@ -3,7 +3,7 @@
 Hi there👋  
 I'm Zi-Ting! I love learning new skill and technology💪INFP
 
-## Pinned
+## -Pinned-
 
 🐟[Cfood_enter](https://87penginnouta.github.io/Cfood_enter/)
 > About **seafood culture** in Taiwan, including fish and strimp.
@@ -11,15 +11,15 @@ I'm Zi-Ting! I love learning new skill and technology💪INFP
 🎶[Music_monbo](https://87penginnouta.github.io/taiwan_music_monbo/)
 > About history of music in Taiwan from 1930s. 
 
-## Skill
+## -Skill-
 
 HTML/SCSS/JQuery/Bootstrap/PHP/SEO/UI/UX
  
-## Intrest
+## -Interest-
 
 Illustration/Pixel art/Infographic
  
-## Favorite 
+## -Favorite- 
 
 Penguin/Pudding
 
