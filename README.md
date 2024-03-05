@@ -26,7 +26,7 @@ Illustration/Pixel art/Infographic
 
 ## -Favorite- 
 
-Penguin/Pudding
+🐧Penguin/🍮Pudding
 
 .
 
