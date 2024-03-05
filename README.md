@@ -20,13 +20,13 @@ HTML / SCSS / JQuery / Bootstrap / PHP / SEO / UI / UX
 
 ## -Interest-
 
-Illustration / Infographic / Pixel art
+Illustration / Infographic / Pixel art / Game Design
 
 .
 
 ## -Favorite- 
 
-🐧Penguin/🍮Pudding
+🐧Penguin / 🍮Pudding
 
 .
 
