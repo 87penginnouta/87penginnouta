@@ -14,16 +14,17 @@ I'm Zi-Ting! I love learning new skill and technology💪INFP
 ## -Skill-
 
 HTML/SCSS/JQuery/Bootstrap/PHP/SEO/UI/UX
-
+.
  
 ## -Interest-
 
 Illustration/Pixel art/Infographic
-
+.
  
 ## -Favorite- 
 
 Penguin/Pudding
+.
 
 
 
