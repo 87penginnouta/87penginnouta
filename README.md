@@ -6,7 +6,7 @@ I'm Zi-Ting! I love learning new skill and technology💪INFP
 ## -Pinned-
 
 🐟[Cfood_enter](https://87penginnouta.github.io/Cfood_enter/)
-> About **seafood culture** in Taiwan, including fish and strimp.
+> About **seafood culture** in Taiwan, including fish and shrimp.
 
 🎶[Music_monbo](https://87penginnouta.github.io/taiwan_music_monbo/)
 > About history of music in Taiwan from 1930s. 
