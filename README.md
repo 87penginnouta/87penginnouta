@@ -26,7 +26,7 @@ Illustration / Infographic / Pixel art / Game Design
 
 ## -Favorite- 
 
-🐧Penguin / 🍮Pudding
+🐧Penguin / 🍮Pudding / 🍵Matcha
 
 .
 
